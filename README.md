@@ -6,5 +6,5 @@ It has --> Admin login page
        --> Exam Addition Panel
        --> Exam Application Panel
        --> Registered Exam Page
-                
+       -->Approve application       
        
